@@ -1,0 +1,33 @@
+body
+{
+    background-color: coral;
+}
+
+.topnav {
+    background-color: #87fdff;
+    overflow: hidden;
+}
+
+.topnav a {
+    color: #2740ff;
+    text-align: center;
+    line-height:30px;
+    padding: 18px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: skyblue;
+    color: darkblue;
+}
+
+.topnav a.active {
+    background-color: #43ff00;
+    color: #228b22;
+    /* I got this from https://www.w3schools.com/howto/howto_js_topnav.asp*/
+}
+body {font-family: Verdana, sans-serif;}
+div.b{
+    text-align: center;
+}
